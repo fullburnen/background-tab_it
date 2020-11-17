@@ -2,7 +2,7 @@
     "manifest_version": 2,
     "name": "Background-tab It",
     "description": "Add a context menu option to open a link in a new background tab",
-    "version": "1.0",
+    "version": "1.1",
     "homepage_url": "https://github.com/fullburnen/background-tab_it",
 
     "background": {
